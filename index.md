@@ -4,11 +4,13 @@ Hello! I'm a cosmology PhD student at Ohio University. I'm interested in large s
 
 # Education
 
-**B.S. in Physics, 2022**
-*University of Arizona*
+**B.S. in Physics, 2022**<br>*University of Arizona*
 
-**M.S in Physics, 2026**
-*Ohio University*
+**M.S in Physics, 2026**<br>*Ohio University*
+
+# Photography
+
+I'm a hobbyist photographer, focusing primarily on 35mm analog photography of local landscapes and architecture. I'm currently in the process of setting up a darkroom in my apartment to produce my own enlargements. I plan to use this space in the future as a small gallery of sorts for my photography, so stay tuned.
 
 # Contact
 email: npsanders513@gmail.com
