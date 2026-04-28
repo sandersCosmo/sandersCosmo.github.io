@@ -10,7 +10,6 @@ Hello! I'm a cosmology PhD student at Ohio University. I'm interested in large s
 
 # Photography
 
-I'm a hobbyist photographer, focusing primarily on 35mm analog photography of local landscapes and architecture. I'm currently in the process of setting up a darkroom in my apartment to produce my own enlargements. I plan to use this space in the future as a small gallery of sorts for my photography, so stay tuned.
-
+I'm a hobbyist photographer, focusing primarily on 35mm analog photography of local landscapes and architecture. A small gallery of my photography can be seen [here](photos.md).
 # Contact
 email: npsanders513@gmail.com
